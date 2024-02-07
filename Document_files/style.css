@@ -1,0 +1,17 @@
+.heading{
+    display:flex;
+    justify-content:space-between;
+    margin: 150px;
+    height: 80px;
+    
+    color: rgb(23, 23, 22)    ;
+    background: #d84141;
+}
+.links{
+    height:300px;
+    width:100px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
